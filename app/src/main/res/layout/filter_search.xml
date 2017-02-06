@@ -1,0 +1,100 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:cursorVisible="false"
+    tools:context=".FilterSearch">
+
+    <LinearLayout
+        android:id="@+id/rowFilterDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="true">
+
+        <TextView
+            android:id="@+id/tvFilterDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/begin_date_label" />
+
+        <EditText
+            android:id="@+id/etFilterDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:ems="10" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/rowFilterSortOrder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rowFilterDate"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvFilterSortOrder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sort_order_label" />
+
+        <Spinner
+            android:id="@+id/spSortOrder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/sort_order_arrays" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/rowFilterNewsDesk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rowFilterSortOrder"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvNewsType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/news_desk_label" />
+
+        <LinearLayout
+            android:id="@+id/rowCheckboxesNewsDesk"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/cbArts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/arts" />
+
+            <CheckBox
+                android:id="@+id/cbFashionAndStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/fashion_and_style" />
+
+            <CheckBox
+                android:id="@+id/cbSports"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sports" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/rowFilterNewsDesk"
+        android:text="Save" />
+
+</RelativeLayout>

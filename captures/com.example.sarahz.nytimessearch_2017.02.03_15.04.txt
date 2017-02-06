@@ -1,0 +1,87 @@
+Applications Graphics Acceleration Info:
+Uptime: 6659636 Realtime: 6659636
+
+** Graphics info for pid 9172 [com.example.sarahz.nytimessearch] **
+
+Recent DisplayList operations
+DrawRect
+DrawDisplayList
+  Save
+  ClipRect
+  DrawDisplayList
+    DrawDisplayList
+      DrawDisplayList
+        DrawDisplayList
+          DrawDisplayList
+            DrawRect
+            DrawDisplayList
+              DrawRect
+              DrawDisplayList
+                Save
+                ClipRect
+                DrawText
+                RestoreToCount
+              DrawDisplayList
+                DrawDisplayList
+                  Save
+                  Translate
+                  DrawBitmap
+                  RestoreToCount
+                  Save
+                  ClipRect
+                  Translate
+                  RestoreToCount
+                DrawDisplayList
+                  Save
+                  Translate
+                  ConcatMatrix
+                  Save
+                  SetupColorFilter
+                  DrawBitmap
+                  ResetColorFilter
+                  RestoreToCount
+          DrawDisplayList
+            Save
+            ClipRect
+            DrawDisplayList
+            RestoreToCount
+        DrawPatch
+  RestoreToCount
+DrawRect
+DrawRect
+DrawRect
+DrawText
+DrawBitmap
+DrawBitmap
+DrawPatch
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache            29696 / 25165824
+  LayerCache                  0 / 16777216
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 / 10485760
+  TextDropShadowCache         0 /  2097152
+  PatchCache                192 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /       16
+Total memory usage:
+  554176 bytes, 0.53 MB
+
+Profile data in ms:
+
+	com.example.sarahz.nytimessearch/com.example.sarahz.nytimessearch.activities.SearchActivity/android.view.ViewRootImpl@528266e8
+View hierarchy:
+
+  com.example.sarahz.nytimessearch/com.example.sarahz.nytimessearch.activities.SearchActivity/android.view.ViewRootImpl@528266e8
+  16 views, 1.27 kB of display lists, 2 frames rendered
+
+
+Total ViewRootImpl: 1
+Total Views:        16
+Total DisplayList:  1.27 kB
+

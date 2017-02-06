@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/httpclient-4.3.6_8a82c1e9cbbb571829b843a5f9953e3aa9cbdd4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_4efbf13604b5181e58b0049a1022b3352b476f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_ffb07cbc77bcb5884096eea12ea10f0d1d89ae91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e63d0236208af188e195982c39a5dcd6ae1ec3c">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/instant-run_2d1c5ba22f4d4b9328d8fba042f9f253e89a865b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_64b9191ada3d86610794f55f16c9c9314e1b759f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca5e58104f56f918f0fb3a5b1b371ab599ae56b2">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.2.1_83e939f3f3010fde77624cdbc786cf188989b1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_536cdd25b2a260d01e152da0725a501da8ede976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_92529245dae7791ee62370e98d28f45859efd09b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.2.1/d6f54d76edfbe779a50a8636b10fd3f555d8f780/butterknife-annotations-8.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6f54d76edfbe779a50a8636b10fd3f555d8f780">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.2.1_fae0fff7a4b454ad25042a7219c030d57ed94272.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_ea98a46197e09dcf31a55c11d25e8efa1911e436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_583e908c8a9dff762218b53b95a6f002e65dc34a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_4db9072a13864ff9c1afaab465327185c9605eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_fe0584dc297ad8463f81e3d84ec15c4d5eb091f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f0af21bc177f0d103e507252a20abd218acc3e0">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_40bfe4932d92c2cf686d7276bef4940b21a53ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/library-2.4.0_aacce2716e726326982fa855bb3fd5f1f07baeef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_84a1aa950ae68caceff9012b73be2de5779b7101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.1.1/d081ad6f7c51627ebe2dbf157cc525cbf5e9c821/parceler-api-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d081ad6f7c51627ebe2dbf157cc525cbf5e9c821">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/parceler-api-1.1.1_241fe4399db7ef72d8be6c6a9b095cc10bc2d64b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_52196481ff1f8221377605a87dc384d9e99fabee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_fc8ebf17f8b79a0969fb4483ec6ca3de4ab2007d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.code-troopers.betterpickers/library/3.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d80e2f508605b275ac7edf2447dd62297a44e8f1">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.code-troopers.betterpickers-library-3.0.0_2d1d83220681282227125a4575bcbadf99537809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.9_c26bc0b995f85af02de04135c28ef76351a9fb1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/jp.wasabeef/recyclerview-animators/2.2.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="215abfa2b78865741d99f7b9c0afb79894986505">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/jp.wasabeef-recyclerview-animators-2.2.5_7c825615537739b74c6db4adeab9d9ce4ee5a328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_c9657e160a469b6c5988ef684ecf94ca052b4362.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/sarahz/Downloads/NYTimesSearch/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_22c9ea0436eafeb0032c4911d06e3db5fb6f9526.jar" />
+    </item>
+
+</items>
